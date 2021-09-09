@@ -1,0 +1,17 @@
+{
+	"pizzaTypes": [
+		{"name": "Marinara", "topping": "tomato sauce, garlic, oregano", "price": "10.90"},
+		{"name": "Margherita", "topping": "tomato sauce, mozzarella, basil", "price": "9.90"},
+		{"name": "Romana", "topping": "tomato sauce, mozzarella, anchovies", "price": "11.90"},
+		{"name": "Siciliana", "topping": "tomato sauce, mozzarella, capers, anchovies, olives", "price": "11.90"},
+		{"name": "Prosciuto e funghi", "topping": "tomato sauce, mozzarella, ham, mushrooms", "price": "11.90"},
+		{"name": "Capricciosa", "topping": "tomato sauce, mozzarella, ham, mushrooms, artichokes, olives", "price": "12.90"},
+		{"name": "Quattro formaggi", "topping": "tomato sauce, mozzarella, fontina, gorgonzola and parmigiano", "price": "12.90"},
+		{"name": "Tirolese", "topping": "tomato sauce, mozzarella, speck (smoked, cured ham)", "price": "11.90"},
+		{"name": "Viennese", "topping": "tomato sauce, mozzarella, slices of Vienna sausages", "price": "11.90"},
+		{"name": "Diavola", "topping": "tomato sauce, mozzarella, slices of hot salami", "price": "10.90"},
+		{"name": "Tonno e cipolla", "topping": "tomato sauce, mozzarella, tunafish, onion", "price": "12.90"},
+		{"name": "Vegetariana", "topping": "tomato sauce, mozzarella and veggies", "price": "10.90"},
+		{"name": "Calzone", "topping": "tomato sauce, mozzarella, ham, mushrooms", "price": "11.90"}
+	]
+}
